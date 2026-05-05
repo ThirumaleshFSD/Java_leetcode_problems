@@ -11,6 +11,7 @@ public class LeetCode2520 {
             }
             
         }
+        //divide number 
         return count;
 }
 public static void main(String[] args) {
